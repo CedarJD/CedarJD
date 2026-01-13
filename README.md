@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Cedar (they/them)
+My name is Cedar (she/they)
 <!--
 **CedarJD/CedarJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
